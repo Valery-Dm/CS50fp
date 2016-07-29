@@ -1,4 +1,4 @@
-# CS50fp
+# [CS50fp](http://valery-dm.github.io/CS50fp/)
 Final project for CS50 classes, year 2014. Some modifications were added later.
 The purpose was to create a web site with units conversion that can work offline. And calculating results all at once as user is typing into one of the fields.
 It consists of one javascript driven html page with three blocks of units - Lengths, Weights (or Mass) and Volume.
